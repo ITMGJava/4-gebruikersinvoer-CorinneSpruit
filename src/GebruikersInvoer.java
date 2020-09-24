@@ -21,7 +21,7 @@ System.out.println("Voer een woord in");
           var getal = s.nextInt();
 
           System.out.println("de tafel van "+getal+" is:");
-System.out.println("1 x "+getal+" = "); System.out.print(1*getal);
+          System.out.println("1 x "+getal+" = "); System.out.println(1*getal);
        System.out.print("2 x "+getal+" = "); System.out.println(2*getal);
        System.out.print("3 x "+getal+" = "); System.out.println(3*getal);
        System.out.print("4 x "+getal+" = "); System.out.println(4*getal);
